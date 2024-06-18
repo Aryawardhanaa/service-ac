@@ -51,7 +51,7 @@ const Hero = () => {
                                             >
 
 
-                                                Layanan Jasa Service AC
+                                                Jasa Service AC
 
                                                 <br /> Terbaik di Medan
                                             </h2>
