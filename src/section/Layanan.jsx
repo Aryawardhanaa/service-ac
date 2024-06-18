@@ -165,7 +165,7 @@ const Layanan = () => {
                                     />
                                     <div className="aservice__img--text">
                                         <p>
-                                            Jasa Cuci Indoor & Outdoor Service
+                                            Jasa Cuci Indoor & Outdoor Service AC  Split, Casette, Standing & Central
                                             {/* Jasa pemasangan AC, instalasi kelistrikan, dan instalasi pipa. Instalasi AC baru. */}
                                         </p>
 
