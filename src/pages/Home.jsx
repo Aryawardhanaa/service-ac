@@ -9,12 +9,12 @@ const Home = () => {
     return (
         <>
             {/* preloader */}
-            <div id="preloader">
+            {/* <div id="preloader">
                 <div className="preloader">
                     <span />
                     <span />
                 </div>
-            </div>
+            </div> */}
             {/* preloader end  */}
             {/* back to top start */}
             <div className="progress-wrap">
