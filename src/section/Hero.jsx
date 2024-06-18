@@ -2,8 +2,10 @@ import { Badge } from "react-bootstrap"
 import { Link } from "react-router-dom"
 
 const Hero = () => {
+
     return (
-        < >
+        <>
+
             <section className="slider-area-3 position-relative">
                 <div className="slider-active swiper-container common-dots">
                     <div className="swiper-wrapper">
@@ -198,6 +200,7 @@ const Hero = () => {
                     <img src="/assets/img/hero/shape.png" className="img-fluid" alt="img" />
                 </div>
             </section>
+
         </>
     )
 }

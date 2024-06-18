@@ -223,8 +223,8 @@ const Home = () => {
                                     <div className="section-title-wrapper mb-50">
                                         <h6 className="subtitle mb-20">Asked Question</h6>
                                         <h2 className="section-title">
-                                            Solutions for an every <br />
-                                            repair problem
+                                            Solusi untuk setiap masalah perbaikan<br />
+
                                         </h2>
                                     </div>
                                     <div className="accordion" id="accordionExample">
