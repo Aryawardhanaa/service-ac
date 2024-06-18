@@ -145,7 +145,7 @@ const Layanan = () => {
                                     />
                                     <div className="aservice__img--text">
                                         <p>
-                                            Melayani pemasangan AC baru dari berbagai jenis merek dan tipe AC untuk berbagai keperluan
+                                            Jasa Cuci Indoor & Outdoor Service AC  Split, Casette, Standing & Central
                                         </p>
 
                                     </div>
@@ -165,7 +165,8 @@ const Layanan = () => {
                                     />
                                     <div className="aservice__img--text">
                                         <p>
-                                            Jasa Cuci Indoor & Outdoor Service AC  Split, Casette, Standing & Central
+                                            Pasang Baru , Kebocoran Pipa , Pergantian Sparepart Dll . Dikerjakan Oleh Teknisi Professional yang sudah memiliki seritifikat kemnaker & BNSP
+                                            {/* Jasa Cuci Indoor & Outdoor Service AC  Split, Casette, Standing & Central */}
                                             {/* Jasa pemasangan AC, instalasi kelistrikan, dan instalasi pipa. Instalasi AC baru. */}
                                         </p>
 
