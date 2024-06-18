@@ -15,7 +15,8 @@ const BrandArea = () => {
                         </div>
                     </div>
                 </div>
-                <div className="brand-active swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events">
+                {/* sdadsa */}
+                <div className="brand-active swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" style={{ overflowX: "auto" }}>
                     <div
                         className="swiper-wrapper"
                         id="swiper-wrapper-10adabb37f9972510e"
