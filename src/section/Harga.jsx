@@ -4,7 +4,7 @@ const arr = [
     {
         "layanan": "Cuci Split",
         "unit": "0.5 – 1",
-        "harga": "Rp45.000"
+        "harga": "Rp50.000"
     },
     {
         "layanan": "Cuci Split",
@@ -114,7 +114,7 @@ const Harga = () => {
                                     <tr>
                                         <th align="center" style={{ width: "10%" }} className="w-10">No</th>
                                         <th>Layanan</th>
-                                        <th>Unit</th>
+                                        <th>Size / PK</th>
                                         <th>Harga</th>
                                     </tr>
                                 </thead>
