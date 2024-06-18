@@ -1,3 +1,4 @@
+import BrandArea from "../components/BrandArea";
 import Contact from "../section/Contact";
 import Footer from "../section/Footer";
 import Gallery from "../section/Gallery";
@@ -115,6 +116,7 @@ const Home = () => {
 
                 <Layanan />
                 <Harga />
+                <BrandArea />
                 <Contact />
                 <Gallery />
                 {/* <ClientSectionSwiper /> */}
