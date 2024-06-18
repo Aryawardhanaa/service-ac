@@ -106,7 +106,7 @@ const Harga = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="row mb-5 justify-content-center">
+                    <div className="row justify-content-center">
                         <div className="col-lg-9 d-flex ">
 
                             <Table striped bordered hover className="text-center">
@@ -136,6 +136,9 @@ const Harga = () => {
                                 </tbody>
                             </Table>
                         </div>
+                    </div>
+                    <div className="container row mb-5 justify-content-center">
+                        <p className="text-center">*Catatan : untuk wilayah kerja diatas radius 10KM dari lokasi kami akan dikenakan biaya tambahan Rp.10.000 </p>
                     </div>
                 </div>
             </div>

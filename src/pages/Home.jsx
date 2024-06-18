@@ -249,7 +249,7 @@ const Home = () => {
                                                 data-bs-parent="#accordionExample"
                                             >
                                                 <div className="accordion-body">
-                                                    kami dapat memperbaiki Service berbagai tipe merek AC seperti Panasonic, Daikin, Sharp, Fujitsu, Samsung, dan juga ChangHong
+                                                    kami dapat memperbaiki Service Semua tipe merek AC seperti Panasonic, Daikin, Sharp, Fujitsu, Samsung, ChangHong Dan Lainnya
                                                 </div>
                                             </div>
                                         </div>
@@ -274,7 +274,7 @@ const Home = () => {
                                                 data-bs-parent="#accordionExample"
                                             >
                                                 <div className="accordion-body">
-                                                    Kami melayani seluruh wilayah Medan khususnya wilayah Medan Utara, Medan Barat, Medan Timur, Medan Pusat dan juga Medan Selatan.
+                                                    Kami melayani seluruh wilayah Medan khususnya wilayah Medan Helvetia, Medan Barat, Medan Sunggal, Medan Kota dan Kota Binjai.
                                                 </div>
                                             </div>
                                         </div>
