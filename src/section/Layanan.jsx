@@ -165,7 +165,8 @@ const Layanan = () => {
                                     />
                                     <div className="aservice__img--text">
                                         <p>
-                                            Jasa pemasangan AC, instalasi kelistrikan, dan instalasi pipa. Instalasi AC baru.
+                                            Jasa Cuci Indoor & Outdoor Service
+                                            {/* Jasa pemasangan AC, instalasi kelistrikan, dan instalasi pipa. Instalasi AC baru. */}
                                         </p>
 
                                     </div>
