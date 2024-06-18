@@ -46,7 +46,7 @@ const Layanan = () => {
                                             </div>
                                             <div className="aservice__text z-index">
                                                 <h6 className="aservice__text--title">
-                                                    <a href="service-details.html">Pasang AC Baru</a>
+                                                    <a href="service-details.html">Cuci & Service</a>
                                                 </h6>
                                             </div>
                                         </div>
@@ -71,7 +71,7 @@ const Layanan = () => {
                                             <div className="aservice__text z-index">
                                                 {/* <span>Commercial</span> */}
                                                 <h6 className="aservice__text--title">
-                                                    <a href="service-details.html">Pemasangan AC Baru Dan Instalasi</a>
+                                                    <a href="service-details.html">Perbaikan & Instalasi</a>
                                                 </h6>
                                             </div>
                                         </div>
