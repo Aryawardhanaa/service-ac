@@ -3,6 +3,7 @@ import Contact from "../section/Contact";
 import Footer from "../section/Footer";
 import Gallery from "../section/Gallery";
 import Harga from "../section/Harga";
+import Header from "../section/Header";
 import Hero from "../section/Hero";
 import Layanan from "../section/Layanan";
 
@@ -111,7 +112,7 @@ const Home = () => {
             <main>
                 {/* hero area start here */}
 
-                {/* <Header /> */}
+                <Header />
                 <Hero />
 
                 <Layanan />

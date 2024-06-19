@@ -11,7 +11,7 @@ const Header = () => {
                                 <div className="header-logo pt-15 pb-15">
                                     <a href="index.html">
                                         <img
-                                            src="/assets/img/logo/cv.sgc.png"
+                                            src="/assets/img/logo/cv.sgclogo.jpg"
                                             className="img-fluid"
                                             alt="img"
                                         />
