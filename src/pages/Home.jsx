@@ -290,7 +290,7 @@ const Home = () => {
                                                     aria-expanded="false"
                                                     aria-controls="collapseThree"
                                                 >
-                                                    Apa saja layanan Sinar Gemilang Service?
+                                                    Apa saja Jasa Layanan nya?
 
                                                 </button>
                                             </h2>

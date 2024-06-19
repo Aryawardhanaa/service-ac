@@ -63,7 +63,7 @@ const arr = [
     },
     {
         "layanan": "Bobok Tembok",
-        "unit": null,
+        "unit": '-',
         "harga": "Rp75.000"
     },
     {

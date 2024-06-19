@@ -10,23 +10,23 @@ const BrandArea = () => {
                             data-wow-delay=".3s"
                         >
                             <h2 className="section-title">
-                                Klien yang telah Mempercayai <span>Kami</span>
+                                Klien Telah Menggunakan Jasa <span>Kami</span>
                             </h2>
                         </div>
                     </div>
                 </div>
                 {/* sdadsa */}
-                <div className="brand-active swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-pointer-events" style={{ overflowX: "auto" }}>
+                <div className="brand-active " style={{ overflowX: "auto" }}>
                     <div
                         className="swiper-wrapper"
                         id="swiper-wrapper-10adabb37f9972510e"
                         aria-live="off"
-                        style={{
-                            transform: "translate3d(-2400px, 0px, 0px)",
-                            transitionDuration: "0ms"
-                        }}
+                    // style={{
+                    //     transform: "translate3d(-2400px, 0px, 0px)",
+                    //     transitionDuration: "0ms"
+                    // }}
                     >
-                        <div
+                        {/* <div
                             className="brand-wrapper swiper-slide wow fadeInUp swiper-slide-duplicate"
                             data-wow-delay=".6s"
                             data-swiper-autoplay={5000}
@@ -257,7 +257,7 @@ const BrandArea = () => {
                                     alt="img"
                                 />
                             </a>
-                        </div>
+                        </div> */}
                         <div
                             className="brand-wrapper swiper-slide wow fadeInUp swiper-slide-duplicate"
                             data-wow-delay="1.2s"
