@@ -1,4 +1,5 @@
 import BrandArea from "../components/BrandArea";
+import Sertifikasi from "../components/Sertifikasi";
 import Contact from "../section/Contact";
 import Footer from "../section/Footer";
 import Gallery from "../section/Gallery";
@@ -116,81 +117,14 @@ const Home = () => {
                 <Hero />
 
                 <Layanan />
+                <Sertifikasi />
                 <Harga />
                 <BrandArea />
                 <Contact />
                 <Gallery />
                 {/* <ClientSectionSwiper /> */}
 
-                {/* fact area end here */}
-                {/* choose area start here */}
-                {/* <div
-                    className="choose-area-3 pt-185"
-                    data-background="/assets/img/choose/choose-bg3.jpg"
-                    style={{ backgroundImage: `url("/assets/img/choose/choose-bg3.jpg")` }}
-                >
-                    <div className="container">
-                        <div className="row align-items-center">
-                            <div className="col-lg-6">
-                                <div className="choose--content choose--content__3">
-                                    <div
-                                        className="section-title-wrapper mb-35 wow fadeInUp"
-                                        data-wow-delay=".3s"
-                                    >
-                                        <h6 className="subtitle mb-20">Why Choose Us</h6>
-                                        <h2 className="section-title">
-                                            Empower lifes forever <br /> better living
-                                        </h2>
-                                    </div>
-                                    <p className="mb-40 wow fadeInUp" data-wow-delay=".6s">
-                                        Eleifend lacinia prasent hendrerit quisque penatibus erat eat
-                                        pulvinar integer semper ridiculus lectus condimentum obor tise
-                                        verodar
-                                    </p>
-                                    <div className="achoose mb-40 wow fadeInUp" data-wow-delay=".9s">
-                                        <div className="achoose__icon theme-bg-blue">
-                                            <i className="flaticon-technician" />
-                                        </div>
-                                        <div className="achoose__text fix">
-                                            <h4 className="achoose__text--title">Expert Repairman</h4>
-                                            <p>
-                                                Pede nullam nullas it ultricies corne mone molestie erate
-                                                montes adipiscing leo est magnis imperdiet fermentum auctor
-                                                hymenae laoreet tempor vestibulum dictumst
-                                            </p>
-                                        </div>
-                                    </div>
-                                    <div className="achoose mb-40 wow fadeInUp" data-wow-delay="1.2s">
-                                        <div className="achoose__icon theme-bg">
-                                            <i className="flaticon-satisfaction" />
-                                        </div>
-                                        <div className="achoose__text fix">
-                                            <h4 className="achoose__text--title">Satisfied Services</h4>
-                                            <p>
-                                                Imperdiet fermentum auctor hymenae laoreet tempor vestibulum
-                                                dictumst pede nullam nullas it ultricies corne mone molestie
-                                                erate montes adipiscing leo est magnis{" "}
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="col-lg-6">
-                                <div className="achoose__img--3 wow fadeInUp" data-wow-delay="1.5s">
-                                    <img src="/assets/img/choose/choose-img-2.png" alt="img" />
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> */}
-                {/* choose area end here */}
-                {/* feature area start here */}
 
-                {/* feature area end here */}
-                {/* newsletter area start here */}
-
-                {/* newsletter area end here */}
-                {/* faq area start here */}
                 <section className="faq-area-3 pt-120 pb-105">
                     <div className="custom-container">
                         <div className="row">
