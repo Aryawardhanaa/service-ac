@@ -25,7 +25,7 @@ const Contact = () => {
                     <div className="col-lg-7">
                         <div className="acontact__img wow fadeInUp" data-wow-delay=".3s">
                             <img
-                                src="assets/img/contact/contact-img-1.png"
+                                src="/assets/img/contact/contact-img-1.png"
                                 className="img-fluid"
                                 alt="img"
                             />
