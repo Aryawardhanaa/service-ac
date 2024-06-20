@@ -48,11 +48,17 @@ const Contact = () => {
                                 <div className="select__field--arrow">
                                     <select name="layanan">
                                         <option value="Cuci AC">Cuci AC</option>
-                                        <option value="Tambah Freon">Tambah Freon AC R22 </option>
+                                        <option value="Pipa AC Rusak">Pipa AC Rusak </option>
+                                        <option value="Perbaikan Sparepart ">Perbaikan Sparepart  </option>
+                                        <option value="Bongkar/Pasang ">Bongkar/Pasang  </option>
+                                        <option value="Tidak Dingin ">Tidak Dingin  </option>
+                                        <option value="Suara Berisik   ">Suara Berisik    </option>
+                                        <option value="Air AC Netes    ">Air AC Netes     </option>
+                                        {/* <option value="Tambah Freon">Tambah Freon AC R22 </option>
                                         <option value="Isi Freon">Isi Freon R22 0.5 - 1 PK	</option>
                                         <option value="Bongkar Pasang">Bongkar Pasang 0.5 - 1 PK</option>
                                         <option value="Las perbaikan">Las perbaikan kebocoran pipa freon 1,5 - 2 PK</option>
-                                        <option value="Service Cuci">Service Cuci AC Standing Plor</option>
+                                        <option value="Service Cuci">Service Cuci AC Standing Plor</option> */}
                                     </select>
                                 </div>
                                 <textarea name="alamat" placeholder="Masukkan Alamat" defaultValue={""} />
