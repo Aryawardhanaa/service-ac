@@ -32,7 +32,7 @@ const Hero = () => {
                                         <div className="aslider aslider-3 text-center pt-250 z-index">
                                             <div className="mb-5">
 
-                                                <h1 className="text- " style={{ color: "#ff6600" }}>
+                                                <h1 className="h1 " style={{ color: "#ff6600", fontSize: "3rem" }}>
                                                     <Badge text="orange" bg="secondary">Lulu Teknik Service</Badge>
                                                 </h1>
                                             </div>
