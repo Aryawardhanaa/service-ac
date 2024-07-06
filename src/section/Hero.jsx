@@ -30,12 +30,12 @@ const Hero = () => {
                                 <div className="row">
                                     <div className="col-lg-12">
                                         <div className="aslider aslider-3 text-center pt-250 z-index">
-                                            {/* <div className="mb-5">
+                                            <div className="mb-5">
 
                                                 <h1 className="text- " style={{ color: "#ff6600" }}>
-                                                    <Badge text="orange" bg="secondary">Sinar Gemilang AC Service</Badge>
+                                                    <Badge text="orange" bg="secondary">Lulu Teknik Service</Badge>
                                                 </h1>
-                                            </div> */}
+                                            </div>
                                             <h4
                                                 className="aslider--date"
                                                 data-animation="fadeInUp"
